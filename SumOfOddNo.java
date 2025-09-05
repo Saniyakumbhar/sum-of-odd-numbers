@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class exercise1 {
+public class SumOfOddNo {
 
     // Method to check and return the number if it is odd, otherwise return 0
     public static int oddSum(int n) {
@@ -31,3 +31,4 @@ public class exercise1 {
         System.out.println("addition of odd number are " + sum);
     }
 }
+
